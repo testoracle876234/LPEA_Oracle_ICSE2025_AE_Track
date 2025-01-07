@@ -2,8 +2,7 @@ Install Docker
 
 Clone this repository
 
-Access this repository in terminal
-follow:
+Access this repository in terminal then follow:
 ```
 cd RL-Oracle-Lyapunov-v1 
 make docker-cpu
