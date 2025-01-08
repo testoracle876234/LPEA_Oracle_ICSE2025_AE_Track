@@ -39,7 +39,7 @@ Once inside the Docker container, you can follow the instructions under the **Us
 ## Usage
 
 
-Before start, make sure you are in the **\RL-Oracle-Lyapunov-v1\RLTestingLyapunov** directory before running the following commands.
+Before start, make sure you are in the **\RL-Oracle-Lyapunov-v1\RLTestingLyapunov** directory of the docker container before running the following commands.
 ```sh
 cd ~/RL-Oracle-Lyapunov-v1/RLTestingLyapunov
 ```
