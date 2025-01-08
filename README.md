@@ -8,6 +8,10 @@ Current approaches to testing RL software often rely on human oracles, i.e., con
 
 In this project, we propose a novel approach to design test oracles for RL software by leveraging the Lyapunov stability control theory. By constructing Lyapunov functions to guide RL training, we hypothesize that correctly implemented RL software shall output an agent that respects Lyapunov stability control theories. Based on this heuristic, we propose a Lyapunov stability control theory-based oracle, the LPEA oracle, for testing RL software. We conduct extensive experiments to evaluate the effectiveness of the LPEA oracle.
 
+## Before Stards
+
+Some of the commands only work on Linux/Mac. Please conduct the experiment in a Linux VM if you are using a windows machine.
+
 ## Getting Started
 
 ### Install Docker
