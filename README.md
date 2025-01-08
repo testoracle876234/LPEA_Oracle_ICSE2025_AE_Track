@@ -19,11 +19,17 @@ To begin, ensure that you have Docker installed on your system. You can download
 After installing Docker, clone this repository to your local machine. Access this repository in the terminal and follow these commands:
 
 1. **Enter the project directory:**
-   `cd RL-Oracle-Lyapunov-v1 `
-2. **Use 'make' command to build docker image:**
-   `make docker-cpu`
-3. **Interact with the docker container:**
-   `docker run -it stablebaselines/stable-baselines3-cpu:latest`
+   ```sh
+   cd RL-Oracle-Lyapunov-v1
+   ```
+3. **Use 'make' command to build docker image:**
+   ```sh
+   make docker-cpu
+   ```
+5. **Interact with the docker container:**
+   ```sh
+   docker run -it stablebaselines/stable-baselines3-cpu:latest
+   ```
 
 
 
@@ -34,7 +40,9 @@ Once inside the Docker container, you can follow the instructions under the **Us
 
 
 Before start, make sure you are in the **\RL-Oracle-Lyapunov-v1\RLTestingLyapunov** directory before running the following commands.
-`cd ~/RL-Oracle-Lyapunov-v1/RLTestingLyapunov`
+```sh
+cd ~/RL-Oracle-Lyapunov-v1/RLTestingLyapunov
+```
 
 Then:
 
