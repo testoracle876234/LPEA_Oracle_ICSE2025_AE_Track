@@ -83,15 +83,6 @@ Then:
     python LPEA_Oracle.py -1 ppo 2 2 1 800
     ```
 
-As for the parameters used in the paper, 
-```
-For an LPEA(ϑ, θ) oracle (see Section III), we choose the
-following learning hyper-parameters: I = 20; J = 800; n = 2;
-m = 2; learning rate for A2C, PPO, and TD3 are respectively
-0.0004, 0.0012, and 0.001; learning steps for A2C, PPO, and
-TD3 are respectively 90000, 120000, and 90000.
-```
-
 ## Results
 This is an example of the output. You could check Section III for more details or vartheta and theta.
 
