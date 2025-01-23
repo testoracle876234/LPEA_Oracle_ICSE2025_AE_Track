@@ -82,10 +82,8 @@ Then:
     ```sh
     python LPEA_Oracle.py -1 ppo 2 2 1 800
     ```
-
-## Results
-This is an example of the output. You could check Section III for more details or vartheta and theta.
-
+    Result:
+    ```
     vartheta=100%, theta=100%, the software is bug-less based on LPEA Oracle
     vartheta=100%, theta=75%, the software is bug-less based on LPEA Oracle
     vartheta=100%, theta=50%, the software is bug-less based on LPEA Oracle
@@ -104,3 +102,8 @@ This is an example of the output. You could check Section III for more details o
     vartheta=50%, theta=100%, the software is bug-less based on LPEA Oracle
     vartheta=50%, theta=75%, the software is bug-less based on LPEA Oracle
     vartheta=50%, theta=50%, the software is bug-less based on LPEA Oracle
+    ```
+    To test other bugs and algorithms, change `<bug_id>` and `<algorithm>`. As for other default parameters, please refer to Section. IV.
+
+
+
