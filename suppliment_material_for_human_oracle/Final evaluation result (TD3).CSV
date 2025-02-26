@@ -1,0 +1,18 @@
+,Overall,,,,,,,
+,TP,FP,TN,FN,Accuracy,Precision,Recall,F1 Score
+"LPEA Oracle I=20, J=800, vartheta=1, Theta=75%",15,15,0,0,0.5,0.5,1,0.667
+"LPEA Oracle I=20, J=800, vartheta=1, Theta=50%",15,15,0,0,0.5,0.5,1,0.667
+"LPEA Oracle I=20, J=800, vartheta=1, Theta=25%",14,12,3,1,0.567,0.538,0.933,0.683
+"LPEA Oracle I=20, J=800, vartheta=97.5%, Theta=75%",12,2,13,3,0.833,0.857,0.8,0.828
+"LPEA Oracle I=20, J=800, vartheta=97.5%, Theta=50%",10,0,15,5,0.833,1,0.667,0.8
+"LPEA Oracle I=20, J=800, vartheta=97.5%, Theta=25%",10,0,15,5,0.833,1,0.667,0.8
+"LPEA Oracle I=20, J=800, vartheta=95%, Theta=75%",11,0,15,4,0.867,1,0.733,0.846
+"LPEA Oracle I=20, J=800, vartheta=95%, Theta=50%",10,0,15,5,0.833,1,0.667,0.8
+"LPEA Oracle I=20, J=800, vartheta=95%, Theta=25%",8,0,15,7,0.767,1,0.533,0.696
+"LPEA Oracle I=20, J=800, vartheta=92.5%, Theta=75%",11,0,15,4,0.867,1,0.733,0.846
+"LPEA Oracle I=20, J=800, vartheta=92.5%,, Theta=50%",10,0,15,5,0.833,1,0.667,0.8
+"LPEA Oracle I=20, J=800, vartheta=92.5%,, Theta=25%",7,0,15,8,0.733,1,0.467,0.636
+"LPEA Oracle I=20, J=800, vartheta=90%, Theta=75%",10,0,15,5,0.833,1,0.667,0.8
+"LPEA Oracle I=20, J=800, vartheta=90%, Theta=50%",8,0,15,7,0.767,1,0.533,0.696
+"LPEA Oracle I=20, J=800, vartheta=90%, Theta=25%",7,0,15,8,0.733,1,0.467,0.636
+Human Oracle,11,8,7,4,0.6,0.579,0.733,0.647
